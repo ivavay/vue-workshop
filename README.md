@@ -1,6 +1,6 @@
 # vue-workshop
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple counter that increments by the number in the input. 
 
 ## Recommended IDE Setup
 
